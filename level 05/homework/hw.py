@@ -1,6 +1,6 @@
 #2დავალება
 name='saba'
-surname='saldadze'
+surname="saldadze"
 age=12
 country='georgia'
 city='kutaisi'
